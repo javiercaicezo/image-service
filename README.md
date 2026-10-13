@@ -10,7 +10,8 @@
 - Juanita Rubiano
 - Javier Caicedo 
 - Pedro Ayala
-- Samuel Argalle 
+- Samuel Argalle
+  
 **Fecha:** 2026-2
 
 ## Caso de estudio : OficioYa
