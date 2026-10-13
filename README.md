@@ -4,8 +4,9 @@
 ## PARTE B
 
 **Curso:** Dosw
+
 **Universidad:** Escuela Colombiana de Ingeniería Julio Garavito  
-**Autora(s):** 
+**Autores:** 
 - Juanita Rubiano
 - Javier Caicedo 
 - Pedro Ayala
